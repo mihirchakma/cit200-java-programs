@@ -1,2 +1,5 @@
-# cit200-java-programs
+# CIT200 - Java Programs
+
 Java Programs
+
+### BAIT- SLTC Research University
