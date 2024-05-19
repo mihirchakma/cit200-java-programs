@@ -2,4 +2,4 @@
 
 Java Programs
 
-### BAIT- SLTC Research University
+### BAIT - SLTC Research University
