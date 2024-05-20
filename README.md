@@ -1,4 +1,4 @@
-# CIT200 - Java Programs
+# CIT200 - Advanced Object Oriented Programming (Java)
 
 Java Programs
 
